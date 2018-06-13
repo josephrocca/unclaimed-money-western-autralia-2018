@@ -1,10 +1,10 @@
 # unclaimed money western autralia 2018 dataset
 
-* The scraping script is also included, but you'll need to disable CORs in your browser (or perhaps convert it to a node.js script) to run it.
-* The dataset contains 436,042 entries
-* About 52 million dollars unclaimed in total
 * Scraped by using this search form: https://www.treasury.wa.gov.au/Unclaimed-Money/search/ with a list of the 5000 most common first names, and 5000 most common surnames
-* Probably contains at least 80% of all entries
+* The dataset contains 436,042 entries
+* The scraping script is also included as `harvest.html`, but you'll need to disable CORs in your browser (or perhaps convert it to a node.js script, or maybe paste it into the browser console while on the treasury.wa.gov.au webpage) to run it.
+* About 52 million dollars unclaimed in total
+* The dataset probably contains at least 80% of all entries
 
 A couple of interesting entries:
 
